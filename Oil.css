@@ -1,0 +1,37 @@
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    background-color: #FFFF;
+    grid-row-gap: 10px;
+
+  }
+  .grid-item {
+    background-color: #EBEBEB;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    height: 620px;
+  }
+  .Position-R{
+  float: right;
+  box-sizing: content-box;  
+  text-align: justify;
+  width: 600px;
+  height: 600px;
+  
+
+
+  }
+
+  
+  .Position-L{
+    float: left;
+    box-sizing: content-box;  
+    text-align: justify;
+    width: 600px;
+    height: 600px;
+    
+  
+  
+    }
